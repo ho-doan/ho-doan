@@ -10,6 +10,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,reactjs)](https://skillicons.dev)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
+
 <!---
 DoanpPhiHo/DoanpPhiHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
