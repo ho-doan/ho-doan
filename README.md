@@ -8,9 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DoanpPhiHo&theme=dark)](https://github.com/DoanpPhiHo?tab=repositories&q=&type=&language=dart)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,reactjs)](https://skillicons.dev)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DoanpPhiHo/langs)](https://githubtrends.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,react)](https://skillicons.dev)
 
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoanpPhiHo&theme=radical&exclude=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,reactjs"/>
 
