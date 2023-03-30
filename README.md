@@ -12,7 +12,7 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoanpPhiHo&theme=radical&exclude=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,reactjs"/>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
 
