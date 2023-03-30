@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DoanpPhiHo&theme=dark)](https://github.com/DoanpPhiHo?tab=repositories&q=&type=&language=dart)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,cshap,nodejs,nestjs,loopback,reactjs)](https://skillicons.dev)
+
 <!---
 DoanpPhiHo/DoanpPhiHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
