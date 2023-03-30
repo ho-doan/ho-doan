@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DoanpPhiHo&theme=dark)](https://github.com/DoanpPhiHo?tab=repositories&q=&type=&language=dart)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,swiftui,nodejs,nestjs,loopback,reactjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,reactjs)](https://skillicons.dev)
 
 <!---
 DoanpPhiHo/DoanpPhiHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
