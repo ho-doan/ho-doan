@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=DoanpPhiHo&show_icons=true&icon_color=CE1D2D" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DoanpPhiHo&theme=dark)]([https://git.io/streak-stats](https://github.com/DoanpPhiHo?tab=repositories&q=&type=&language=dart&sort=))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DoanpPhiHo&theme=dark)]([https://github.com/DoanpPhiHo?tab=repositories&q=&type=&language=dart])
 
 <!---
 DoanpPhiHo/DoanpPhiHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
