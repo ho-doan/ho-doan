@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=DoanpPhiHo&show_icons=true&icon_color=CE1D2D" />
+<img src="https://github-readme-stats.vercel.app/api?username=ho-doan&show_icons=true&icon_color=CE1D2D" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=doan-ho&theme=dark)](https://github.com/doan-ho?tab=repositories&q=&type=&language=dart)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ho-doan&theme=dark)](https://github.com/ho-doan?tab=repositories&q=&type=&language=dart)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,react)](https://skillicons.dev)
 
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DoanpPhiHo&theme=radical&exclude=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,reactjs"/>
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ho-doan&theme=radical&exclude=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,reactjs"/>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
 <!---
