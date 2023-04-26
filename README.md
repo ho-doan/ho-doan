@@ -1,5 +1,5 @@
 - skype: doanphj5@gmail.com
-- telegram: (https://t.me/ho_doan)
+- telegram: https://t.me/ho_doan
 
 <img src="https://github-readme-stats.vercel.app/api?username=ho-doan&show_icons=true&icon_color=CE1D2D" />
 
