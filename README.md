@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=DoanpPhiHo&show_icons=true&icon_color=CE1D2D" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DoanpPhiHo&theme=dark)](https://github.com/DoanpPhiHo?tab=repositories&q=&type=&language=dart)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=doan-ho&theme=dark)](https://github.com/doan-ho?tab=repositories&q=&type=&language=dart)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,loopback,react)](https://skillicons.dev)
 
