@@ -1,4 +1,5 @@
 <p align="center">
+    <i>About me</i><br/>
     <a href="https://join.skype.com/invite/ksjExwgS0Jzl">
         <img src="https://img.shields.io/badge/Skype-blue?style=flat-square&logo=skype" alt="Skype">
     </a>
