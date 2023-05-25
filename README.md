@@ -1,6 +1,14 @@
-- email: doanho.it.dev@gmail.com
-- skype: doanphj5@gmail.com
-- telegram: https://t.me/ho_doan
+<p align="center">
+    <a href="https://join.skype.com/invite/ksjExwgS0Jzl">
+        <img src="https://img.shields.io/badge/Skype-blue?style=flat-square&logo=skype" alt="Skype">
+    </a>
+    <a href="https://t.me/ho_doan">
+        <img src="https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
+    </a>
+    <a href="mailto:doanho.it.dev@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
+    </a>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ho-doan&show_icons=true&icon_color=CE1D2D" />
 
