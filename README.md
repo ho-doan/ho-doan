@@ -20,7 +20,7 @@
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ho-doan&theme=radical&exclude=js,html,css,dart,flutter,azure,bash,c,cs,docker,dotnet,java,kotlin,swift,figma,git,github,gitlab,graphql,heroku,mysql,postgres,nodejs,nestjs,reactjs"/>
 
 <a href="https://github.com/ho-doan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-doan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-doan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
   </a>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
